@@ -2,5 +2,5 @@
 
 
 
-[pScaleUp](.pScaleUp)	一个typepe插件。用于文章中的图片放大
+[pScaleUp](pScaleUp)	一个typepe插件。用于文章中的图片放大
 
