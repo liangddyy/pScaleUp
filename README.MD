@@ -1,6 +1,6 @@
-记录一下我做的插件。因为用网盘分享更新版本的时候实在是太麻烦了。
 
 
 
-[pScaleUp](pScaleUp)	一个typepe插件。用于文章中的图片放大
+
+[pScaleUp](pScaleUp)	一个typepe插件。用于typecho文章中的图片放大。
 
